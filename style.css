@@ -1,0 +1,23 @@
+body{
+    background-color: #2d2d68;
+}
+.counter_info{
+    text-align: center;
+    margin-top: 170px;
+    margin-left: 54px;
+}
+.mr-5{
+    margin-right: 200px!important;
+}
+i{
+    color: #e6e4e4;
+}
+h1{
+    font-size: 74px;
+    color: orange;
+    margin-top: 20px;
+}
+h4{
+    color: #e6e4e4;
+    margin-top: -10px;
+}
